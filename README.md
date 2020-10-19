@@ -33,8 +33,6 @@ where `PROJECT_NAME` is the name of your new application. Once it's been created
 
 When the server has booted, you can access your application by navigating to `http://localhost:8081/` in your web browser. Your application's code can be found in `index.js`, and you can learn more about available framework features by diving into our documentation.
 
-## Opening Issues
-
 If you encounter a bug with React 360, let us know. Search the existing issues and try to make sure your problem doesn't already exist before opening a new issue. It's helpful if you include the version of React 360, Browser, and OS you're using. Please include a stack trace and reduced repro case where appropriate.
 
 React 360 is open source software, and we welcome contribution from the wider community. If you are able to fix your bug, or find a way to fix another existing issue, we encourage you to submit a PR to address it.
